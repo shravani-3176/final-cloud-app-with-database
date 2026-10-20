@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.bak
+db.sqlite3
+setup_test_data.py
+capture_evidence.py
 
 # C extensions
 *.so
